@@ -1,7 +1,7 @@
 # FDraw-Version-1.0
-Drawing program written in IconF
+Drawing program written in Icon
 
-Draw v.1.0 overview and basic instructions to get you started.
+FDraw v.1.0 overview and basic instructions to get you started.
 
 FDraw is a very simple drawing, perspective 3D and "helper" program.
 
