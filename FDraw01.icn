@@ -6,9 +6,7 @@
 
 #This version contains no mouse events. Keyboard commands only.
 
-#I have not finished indenting all of this code. You may do so if you are bored.
-
-#Much needs to be fixed/completed:helps,photogramm,octinput,http,others.
+#Much needs to be fixed/completed:helps,photogrammetry,octinput,http,others.
 #NOTE: image input and output in this code is set to C:/ drive for Windows.
 #You will need to change this for other platforms.
 
