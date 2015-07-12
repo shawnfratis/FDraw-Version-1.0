@@ -4,7 +4,9 @@
 #Please contact me if you would like specifics of this.
 #shawnfratis@gmail.com
 
-#This version contains no mouse events. Keyboard commands only.
+#This version contains no mouse events. Keyboard commands only, though I am reconsidering this. :)
+
+#IMPORTANT-the calc program is incomplete and untested. PLEASE don't use!
 
 #Much needs to be fixed/completed:helps,photogrammetry,octinput,http,others.
 #NOTE: image input and output in this code is set to C:/ drive for Windows.
